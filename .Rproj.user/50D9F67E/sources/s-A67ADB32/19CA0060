@@ -3,22 +3,22 @@
     "path": "~/CV/CV.Rmd",
     "project_path": "CV.Rmd",
     "type": "r_markdown",
-    "hash": "3150652839",
+    "hash": "2222849697",
     "contents": "",
     "dirty": false,
     "created": 1579363290621.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "61,221",
-        "scrollLine": "49"
+        "cursorPosition": "50,144",
+        "scrollLine": "46"
     },
     "folds": "",
-    "lastKnownWriteTime": 1617815765,
+    "lastKnownWriteTime": 1617815853,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1617815765727,
+    "last_content_update": 1617815853889,
     "read_only": false,
     "read_only_alternatives": []
 }
