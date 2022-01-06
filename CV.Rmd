@@ -72,13 +72,23 @@ I've helped to teach five biology courses at Queen's University. Topics included
 
 *Canadian Firearms Safety Course* \hfill 2016
 
+# Service
+
+*Volunteer Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2022
+
+*SciNapse Undergraduate Case Study Judge* 2021-2022
+
 # Publications
 
 ## Journal Articles
 
-### 2021
+### In prep or review
 
-**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *In review at Conservation Letters*.
+**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Growing in a changing world: predicting growth under future climate scenarios using three long-term seabird datasets *in review for The Journal of Animal Ecology*
+
+**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *In prep*.
+
+### 2021
 
 **Sauve, D.**, Charmantier, A, Hatch, S.A., Friesen V.L. How and when local environmental conditions affect the growth of a subarctic seabird *in press for Oecologia*
 
@@ -100,7 +110,7 @@ Friesen, V.L., Brunt, R., Morris-Pocock, J.A., **Sauve, D.**, Baker, A.J., Birt,
 
 **Sauve, D.**, Friesen, V.L., Teplitsky, C., Hatch, S.A., Charmantier, A. 2021. Impacts of fluctuating environmental conditions and experimental feeding on selection of growth in black-legged kittiwakes. Presentation. Virtual Evolution.
 
-**Sauve, D.**, Friesen V. L., Divoky G. J., Hatch, S. A., Elliott, K. H., Gaston, A.J., Charamantier, A. 2020. Ecological and evolutionary impacts of climate change on the phenology and growth of seabirds. Presentation. *Seminars in Ecology and Evolution*. Centre d'Ecologie Fonctionelle & Evolutive,Montpellier, France.
+**Sauve, D.**, Friesen V.L., Divoky G.J., Hatch, S.A., Elliott, K.H., Gaston, A.J., Charamantier, A. 2020. Ecological and evolutionary impacts of climate change on the phenology and growth of seabirds. Presentation. *Seminars in Ecology and Evolution*. Centre d'Ecologie Fonctionelle & Evolutive,Montpellier, France.
 
 **Sauve, D.**, Chabot, A. The value of quantitative genetics for managing captive breeding populations. 2019. *Loggerhead Shrike Recovery Meeting* Presentation. African Lion Safari, Cambridge, Ontario.
 
