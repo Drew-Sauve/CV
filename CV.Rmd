@@ -31,16 +31,19 @@ web: sites.google.com/view/sauve-drew
 
 # Research Experience
 
+## Statistics and Bioinformatics
+I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis.
+
 ## Fieldwork
-Three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. Worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. Directed a small team for targeted seabird sampling and specific data collection. Helped teach and guide undergraduates in the collection of seabird blood samples. 
+I have worked with teams in France to maintain long-term data sets on great and blue tits near Montpellier and in Corsica. I have spent three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I was in charge of the field team on Middleton Island for part of the 2019 field season. I have helped teach and guide undergraduates in the collection of seabird blood samples. 
 
 ## Labwork
-Proficient in DNA extraction, polymerase chain reaction, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
+I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
 
-## Statistics and Bioinformatics
-Proficient in basic bioinformatics and comfortable with navigating and submitting jobs on a UNIX computer cluster. Proficient in programming in both Python and R. Comfortable with generalized linear models, mixed models, and non-linear models. 
 
 ## Awards
+
+NSERC Michael Smith Foreign Study Supplement **$6,000CAD**
 
 NSERC Alexander Graham Bell Canada Graduate Scholarship – Doctoral  **$105,000CAD**
 
@@ -48,35 +51,23 @@ Haldane Prize Shortlist - Best Early Career Paper in Functional Ecology 2020
 
 TD Fellowship in Arctic Environmental Issues 2019-2020 **$30,000CAD**
 
-Northern Studies Training Program. Canadian Polar Commission. 2019. **$2343CAD**
+Northern Studies Training Program. Canadian Polar Commission. 2019. **$2,343CAD**
 
-Northern Studies Training Program. Canadian Polar Commission. 2018. **$2890CAD**
+Northern Studies Training Program. Canadian Polar Commission. 2018. **$2,890CAD**
 
 Society for the Study of Evolution Travel Grant. Society for the Study of Evolution.2018. **$500USD**
 
-Northern Studies Training Program. Canadian Polar Commission. 2017. **$2263CAD**
+Northern Studies Training Program. Canadian Polar Commission. 2017. **$2,263CAD**
 
 Canadian Society for the Study of Ecology and Evolution Travel Grant. 2016. **$750CAD**
 
 Undergraduate Student Research Award. NSERC. 2016. **$4,500CAD**
 
-North American Bluebird Society Grant. North American Bluebird Society. 2015. **$1000USD**
+North American Bluebird Society Grant. North American Bluebird Society. 2015. **$1,000USD**
 
 # Teaching Assistantships
 
 I've helped to teach five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics for an upper-year genetics course. I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
-
-# Certifications
-
-*Pleasure Craft Operator Card:*18032589508 \hfill 2016
-
-*Canadian Firearms Safety Course* \hfill 2016
-
-# Service
-
-*Volunteer Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2022
-
-*SciNapse Undergraduate Case Study Judge* 2021-2022
 
 # Publications
 
@@ -84,13 +75,17 @@ I've helped to teach five biology courses at Queen's University. Topics included
 
 ### In prep or review
 
-**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Growing in a changing world: predicting growth under future climate scenarios using three long-term seabird datasets *in review for The Journal of Animal Ecology*
+**Sauve, D.**, Friesen, V.L., A, Hatch, S.A.,Teplitsky, C., Charmantier A. Variation in natural selection across time, space, and ontogeny *Submitted for a Special Issue in Evolution Letters*
 
-**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *In prep*.
+**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Growing in a changing world: predicting growth under future climate scenarios using three long-term seabird datasets *in review for Proceedings of the Royal Society B*
+
+**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *In review for Peer Community In*. Available as a preprint: 10.32942/osf.io/n3zxp
+
+### 2022
+
+**Sauve, D.**, Charmantier, A, Hatch, S.A., Friesen V.L. How and when local environmental conditions affect the growth of a subarctic seabird *Oecologia*
 
 ### 2021
-
-**Sauve, D.**, Charmantier, A, Hatch, S.A., Friesen V.L. How and when local environmental conditions affect the growth of a subarctic seabird *in press for Oecologia*
 
 **Sauve, D.**, Friesen, V.L., Charmantier, A. 2021.  The effects of weather on avian growth and implications in the context of climate change. *Frontiers in Ecology and Evolution*
 
@@ -126,6 +121,9 @@ Friesen, V.L., Brunt, R., Morris-Pocock, J.A., **Sauve, D.**, Baker, A.J., Birt,
 
 ## Media
 
+Sixty Second Seabird Science Youtube Series
+https://www.youtube.com/watch?v=sNLRIqPfNFE
+
 Spotlight Article in Functional Ecology
 https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13430?af=R
 
@@ -134,4 +132,14 @@ https://www.nationalgeographic.com/environment/2019/08/many-animals-can-adapt-cl
 
 Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.org/2018/08/15/long-term-data-collection-serves-many/
 
+# Service
 
+*Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2022
+
+*SciNapse Undergraduate Case Study Judge* 2021-2022
+
+# Certifications
+
+*Pleasure Craft Operator Card:*18032589508 \hfill 2016
+
+*Canadian Firearms Safety Course* \hfill 2016
