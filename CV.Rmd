@@ -35,7 +35,7 @@ web: sites.google.com/view/sauve-drew
 I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis.
 
 ## Fieldwork
-I have spent three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I was in charge of the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to maintain long-term data sets on great and blue tits near Montpellier and in Corsica.
+I have spent three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I was in charge of the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and in Corsica.
 
 ## Labwork
 I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
@@ -75,13 +75,13 @@ I've helped to teach five biology courses at Queen's University. Topics included
 
 ### In prep or review
 
-**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *in review for Oikos*
+**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *in review for Journal of Avian Biology*
 
-**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *In review for Peer Community In*. Available as a preprint: 10.32942/osf.io/n3zxp
-
-**Sauve, D.**, Friesen, V.L., A, Hatch, S.A.,Teplitsky, C., Charmantier A. Variation in natural selection across time, space, and ontogeny *Proposed Abstract submitted for a Special Issue in Evolution Letters*
+**Sauve, D.**, Friesen, V.L., A, Hatch, S.A.,Teplitsky, C., Charmantier A. Variation in natural selection across time, space, and ontogeny *In review Evolution Letters*
 
 ### 2022
+
+**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *Peer Community Journal* 2, e50.
 
 **Sauve, D.**, Charmantier, A, Hatch, S.A., Friesen V.L. Effects of the environment on growth vary across the breeding season in a subarctic seabird. *Oecologia* 198, 307-318. 
 
