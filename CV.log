@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  11 OCT 2022 12:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  11 OCT 2022 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -540,18 +540,18 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 327--329
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 330--332
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https 
 : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
-
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 333--335
+[3]
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 336--338
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-
 ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
 
-[3] 
+
 AED: lastpage setting LastPage
 [4] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
@@ -560,7 +560,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  12343 strings out of 481258
  176422 string characters out of 5914245
- 472869 words of memory out of 5000000
+ 471869 words of memory out of 5000000
  29051 multiletter control sequences out of 15000+600000
  436701 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -576,7 +576,7 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/
 :/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8
 a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palati
 no/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 110811 bytes).
+Output written on CV.pdf (4 pages, 110947 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  157 compressed objects within 2 object streams
