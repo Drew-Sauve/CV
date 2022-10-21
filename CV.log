@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  11 OCT 2022 12:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  21 OCT 2022 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -540,28 +540,28 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 330--332
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 281--283
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https 
 : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
-[3]
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 336--338
+
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 287--289
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-
 ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
 
-
+[3] 
 AED: lastpage setting LastPage
 [4] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 2055679C46E7F4DD96177E7049CF486C;2035.
+(rerunfilecheck)             Checksum: D59EFC5DB16784A0CCEF02B1AAD698EF;1813.
  ) 
 Here is how much of TeX's memory you used:
- 12343 strings out of 481258
- 176422 string characters out of 5914245
- 471869 words of memory out of 5000000
- 29051 multiletter control sequences out of 15000+600000
+ 12337 strings out of 481258
+ 176270 string characters out of 5914245
+ 471803 words of memory out of 5000000
+ 29047 multiletter control sequences out of 15000+600000
  436701 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  68i,12n,70p,1191b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -572,14 +572,15 @@ vips/fontawesome/fontawesometwo.enc}<c:/Users/0as69/AppData/Roaming/TinyTeX/tex
 mf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/0as69/AppData/
 Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/0as69/A
 ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/
-0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c
-:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8
+0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c
+:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8
 a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palati
-no/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 110947 bytes).
+no/uplr8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/ur
+w/palatino/uplri8a.pfb>
+Output written on CV.pdf (4 pages, 122715 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
