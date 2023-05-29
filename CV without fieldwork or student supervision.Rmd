@@ -12,7 +12,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github:
-jobtitle: PhD Student
+jobtitle: PhD Candidate & Teaching Fellow
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
@@ -25,35 +25,50 @@ web: sites.google.com/view/sauve-drew
 
 # Education
 
-*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill Exp. Compl. 04/2023
+*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill -2023
 
 *Queen's University*, MSc. Evolutionary and Ecological Genetics \hfill 2018
 
 *Queen's University*, B.Sc. (Hons) Biology \hfill 2016
 
+# Teaching, Teamwork, and Results Communication
 
-# Research Experience
+## Teaching Fellowship
+
+I co-taught a 300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+
+## Collaboration Outside PhD Work
+
+I consult and work with African Lion Safari and Wildlife Preservation Canada regularly to prepare grant applications, write academic manuscripts, and present results to conservation stakeholders.
+
+## Teaching Assistanceships
+
+I have been a teaching assistant for five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
+
+## Student Supervision
+
+I have co-supervised three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
+
+# Research Skills
 
 ## Statistics and Bioinformatics
 I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
 
-## Fieldwork
-I have spent three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I was in charge of the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and in Corsica.
-
 ## Labwork
 I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
 
+
 # Publications
 
-## In review
+## 2023
 
-10.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. Examining the representation of locally threatened species North American zoos. *In review for Animal Conservation* 
+10.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. The magnitude of selection on growth varies among years and increases under warming conditions in a subarctic seabird *Evolution Letters*
 
-9.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *In review for Journal of Avian Biology*
-
-8.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. Variation in natural selection across time, space, and ontogeny *In review Evolution Letters*
+9.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology* 2023, e03062.
 
 ## 2022
+
+8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* 
 
 7.**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *Peer Community Journal* 2, e50.
 
@@ -75,27 +90,27 @@ I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing D
 
 1.**Sauve, D.**, Patirana, A., Chardine, J., and Friesen V.L. 2019. Mitochondrial DNA reveals genetic structure within Atlantic but not Pacific populations of a holarctic seabird *Marine Ornithology* 47, 199-208.
 
-## Presentations
+# Presentations
 
-**Sauve, D.**, Friesen, V.L., Teplitsky, C., Hatch, S.A., Charmantier, A. 2021. Impacts of fluctuating environmental conditions and experimental feeding on selection of growth in black-legged kittiwakes. *Virtual Evolution*. Presentation.
+9.**Sauve, D.**, Friesen, V.L., Teplitsky, C., Hatch, S.A., Charmantier, A. 2021. Impacts of fluctuating environmental conditions and experimental feeding on selection of growth in black-legged kittiwakes. *Virtual Evolution*. Presentation.
 
-**Sauve, D.**, Friesen V.L., Divoky G.J., Hatch, S.A., Elliott, K.H., Gaston, A.J., Charamantier, A. 2020. Ecological and evolutionary impacts of climate change on the phenology and growth of seabirds. Presentation. *Seminars in Ecology and Evolution*. Presentation. Centre d'Ecologie Fonctionelle & Evolutive,Montpellier, France.
+8.**Sauve, D.**, Friesen V.L., Divoky G.J., Hatch, S.A., Elliott, K.H., Gaston, A.J., Charamantier, A. 2020. Ecological and evolutionary impacts of climate change on the phenology and growth of seabirds. Presentation. *Seminars in Ecology and Evolution*. Presentation. Centre d'Ecologie Fonctionelle & Evolutive,Montpellier, France.
 
-**Sauve, D.**, Chabot, A. The value of quantitative genetics for managing captive breeding populations. 2019. *Loggerhead Shrike Recovery Meeting* Presentation. African Lion Safari, Cambridge, Ontario.
+7.**Sauve, D.**, Chabot, A. The value of quantitative genetics for managing captive breeding populations. 2019. *Loggerhead Shrike Recovery Meeting* Presentation. African Lion Safari, Cambridge, Ontario.
 
-**Sauve, D.**, Charmantier, A., Divoky, G., Hatch, S., Elliott, K., Gaston, T., Friesen V. 2019. *Evolution*. Variation in chick growth in response to climate change in three high latitude seabird species. Poster. Providence, Rhode Island.
+6.**Sauve, D.**, Charmantier, A., Divoky, G., Hatch, S., Elliott, K., Gaston, T., Friesen V. 2019. *Evolution*. Variation in chick growth in response to climate change in three high latitude seabird species. Poster. Providence, Rhode Island.
 
-**Sauve, D.**, Divoky, G., and Friesen V. 2018. Queen's University. *Biology Graduate Student Day*. Phenological change in Mandt's Black Guillemot is driven by phenotypic plasticity. Presentation. Kingston, Ontario.
+5.**Sauve, D.**, Divoky, G., and Friesen V. 2018. Queen's University. *Biology Graduate Student Day*. Phenological change in Mandt's Black Guillemot is driven by phenotypic plasticity. Presentation. Kingston, Ontario.
 
-**Sauve, D.**, Divoky, G., and Friesen V. 2018. Queen's University. *American Genetics Associations: Quantitative Genetics in the Wild*. Phenological change in Mandt's Black Guillemot is driven by phenotypic plasticity. Presentation. Toronto, Ontario.
+4.**Sauve, D.**, Divoky, G., and Friesen V. 2018. Queen's University. *American Genetics Associations: Quantitative Genetics in the Wild*. Phenological change in Mandt's Black Guillemot is driven by phenotypic plasticity. Presentation. Toronto, Ontario.
 
-**Sauve, D.**, Divoky, G., and Friesen V. 2017. Disentangling evolutionary and plastic change in the laying date of an Arctic seabird. *Wild Animal Modelling Biennial Meeting*. Presentation. Saint-Michel-Des-Saints, Quebec.
+3.**Sauve, D.**, Divoky, G., and Friesen V. 2017. Disentangling evolutionary and plastic change in the laying date of an Arctic seabird. *Wild Animal Modelling Biennial Meeting*. Presentation. Saint-Michel-Des-Saints, Quebec.
 
-**Sauve, D.**, Divoky, G., and Friesen V.2017. Phenotypic plasticity drives phenological change in Mandt's Black Guillemot. *ArcticNet*. Poster. Quebec City, Quebec.
+2.**Sauve, D.**, Divoky, G., and Friesen V.2017. Phenotypic plasticity drives phenological change in Mandt's Black Guillemot. *ArcticNet*. Poster. Quebec City, Quebec.
 
-**Sauve, D.**, Dale, C.A., Tigano, A., Ratcliffe, L.M., and Friesen V.L. An investigation into the genetic basis of partial migration in Western Bluebirds (Sialia mexicana) using candidate genes 2016.  *North American Ornithological Conference*. Poster. Washington, DC.
+1.**Sauve, D.**, Dale, C.A., Tigano, A., Ratcliffe, L.M., and Friesen V.L. An investigation into the genetic basis of partial migration in Western Bluebirds (Sialia mexicana) using candidate genes 2016.  *North American Ornithological Conference*. Poster. Washington, DC.
 
-## Media
+# Media
 
 Sixty Second Seabird Science Youtube Series
 https://www.youtube.com/watch?v=sNLRIqPfNFE
@@ -110,13 +125,19 @@ Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.or
 
 # Service
 
+*Reviewer for Graduate Women in Science Fellowship Competition* 2023
+
 *Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2022
 
 *SciNapse Undergraduate Case Study Judge* 2021-2022
 
+*OE3C Organizing Committee* 2016-2017
+
 *Queen's University Biology Graduate Student Co-Chair* 2016-2017
 
-## Awards
+# Awards
+
+MITACS Elevate Thematic Call Postdoctoral Fellowship 2023-2025 **160,000CAD**
 
 NSERC Michael Smith Foreign Study Supplement **$6,000CAD**
 
@@ -130,22 +151,13 @@ Northern Studies Training Program. Canadian Polar Commission. 2019. **$2,343CAD*
 
 Northern Studies Training Program. Canadian Polar Commission. 2018. **$2,890CAD**
 
-Society for the Study of Evolution Travel Grant. Society for the Study of Evolution.2018. **$500USD**
-
 Northern Studies Training Program. Canadian Polar Commission. 2017. **$2,263CAD**
-
-Canadian Society for the Study of Ecology and Evolution Travel Grant. 2016. **$750CAD**
 
 Undergraduate Student Research Award. NSERC. 2016. **$4,500CAD**
 
 North American Bluebird Society Grant. North American Bluebird Society. 2015. **$1,000USD**
 
-# Teaching Assistantships
-
-I've helped to teach five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
-
-
-# Certifications
+# Certifications & Courses
 
 *Indigenous Canada Course at University of Alberta* \hfill In Progress
 

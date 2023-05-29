@@ -12,7 +12,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github:
-jobtitle: PhD Candidate
+jobtitle: PhD Candidate & Teaching Fellow
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
@@ -23,10 +23,11 @@ urlcolor: blue
 web: sites.google.com/view/sauve-drew
 ---
 
+**An experienced researcher in statistical genetics excited to apply to a computational biologist role focused on data analysis, literature review, and scientific report preparation.** 
 
 # Education
 
-*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill Exp. Compl. 04/2023
+*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill Exp. Compl. 05/2023
 
 *Queen's University*, MSc. Evolutionary and Ecological Genetics \hfill 2018
 
@@ -37,29 +38,26 @@ web: sites.google.com/view/sauve-drew
 ## Statistics and Bioinformatics
 I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
 
-## Fieldwork
-I have spent three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I led the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and in Corsica.
-
 ## Labwork
 I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
 
-# Teaching 
+# Teamwork and Results Communcation
 
 ## Teaching Fellowship
 
-I am currently co-teaching a ~300 studnet undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+I am currently co-teaching a 300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+
+## Collaboration Outside PhD Work
+
+I consult and work with African Lion Safari and Wildlife Preservation Canada regularly to prepare grant applications, write academic manuscripts, and present results to conservation stakeholders.
 
 ## Teaching Assistanceships
 
-I've helped to teach five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
-
-## Guest Lecture
-
-I gave a guest lecture on the evolution of life-history traits for the second year evolutionary genetics course at Queen's University.
+I have been a teaching assistant for five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
 
 ## Student Supervision
 
-I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
+I have co-supervised three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
 
 *Dominique Charland* Measuring Unintentional Selection in a Captive Breeding Program for the Eastern Loggerhead Shrike (Lanius ludovicianus migrans) 2022. Now a JD candidate at the University of Ottawa.
 
@@ -73,7 +71,7 @@ I've helped co-supervise three honours thesis students at Queen's University on 
 
 10.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology*
 
-9.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. The magnitude of selection on growth varies among years and increases under warming conditions in a subarctic seabird. *Evolution Letters*
+9.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. Variation in natural selection across time, space, and ontogeny *Evolution Letters*
 
 8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* 
 

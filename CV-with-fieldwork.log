@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  7 MAR 2023 14:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  4 MAR 2023 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV.tex
-(./CV.tex
+**CV-with-fieldwork.tex
+(./CV-with-fieldwork.tex
 LaTeX2e <2020-10-01> patch level 3
 L3 programming layer <2020-12-07> xparse <2020-03-03> (c:/Users/0as69/AppData/R
 oaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -388,8 +388,8 @@ d-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count277
 \l__pdf_internal_box=\box50
-) (./CV.aux)
-\openout1 = `CV.aux'.
+) (./CV-with-fieldwork.aux)
+\openout1 = `CV-with-fieldwork.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
@@ -483,9 +483,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 98.
 LaTeX Info: Redefining \pageref on input line 98.
 LaTeX Info: Redefining \nameref on input line 98.
-(./CV.out) (./CV.out)
+(./CV-with-fieldwork.out) (./CV-with-fieldwork.out)
 \@outlinefile=\write3
-\openout3 = `CV.out'.
+\openout3 = `CV-with-fieldwork.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
 ut line 114.
@@ -540,31 +540,31 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 328--330
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 319--321
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https 
 : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
-[3]
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 334--336
+
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 325--327
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-
 ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
 
-
+[3] 
 AED: lastpage setting LastPage
-[4] (./CV.aux)
-Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: D435867DA8E5AAD5F5A1DDD639F26BDB;2334.
+[4] (./CV-with-fieldwork.aux)
+Package rerunfilecheck Info: File `CV-with-fieldwork.out' has not changed.
+(rerunfilecheck)             Checksum: 776C5E20774A57EDE9917DB3BE0078A4;2068.
  ) 
 Here is how much of TeX's memory you used:
- 12353 strings out of 481258
- 176508 string characters out of 5914245
- 471963 words of memory out of 5000000
- 29055 multiletter control sequences out of 15000+600000
+ 12345 strings out of 481258
+ 176613 string characters out of 5914245
+ 471956 words of memory out of 5000000
+ 29051 multiletter control sequences out of 15000+600000
  436701 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,12n,70p,1191b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,70p,1206b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
 c} <c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ectt1095.600pk>{c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/d
@@ -577,10 +577,10 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/
 a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palati
 no/uplr8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/ur
 w/palatino/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 125915 bytes).
+Output written on CV-with-fieldwork.pdf (4 pages, 125938 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
