@@ -12,7 +12,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github:
-jobtitle: MITACs Elevate Postdoctoral Fellow
+jobtitle: Mitacs Elevate Postdoctoral Fellow
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
@@ -23,7 +23,6 @@ urlcolor: blue
 web: sites.google.com/view/sauve-drew
 ---
 
-
 # Education
 
 *Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill 2023
@@ -31,7 +30,6 @@ web: sites.google.com/view/sauve-drew
 *Queen's University*, MSc. Evolutionary and Ecological Genetics \hfill 2018
 
 *Queen's University*, B.Sc. (Hons) Biology \hfill 2016
-
 
 # Publications
 
@@ -112,7 +110,7 @@ Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.or
 
 # Awards
 
-MITACs Elevate Postdoctoral Research Fellowship **$160,000CAD**
+Mitacs Elevate Postdoctoral Research Fellowship **$160,000CAD**
 
 NSERC Michael Smith Foreign Study Supplement **$6,000CAD**
 
@@ -159,7 +157,7 @@ I've helped to teach five biology courses at Queen's University. Topics included
 
 ## Student Supervision
 
-I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
+I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity.
 
 *Dominique Charland* Measuring Unintentional Selection in a Captive Breeding Program for the Eastern Loggerhead Shrike (Lanius ludovicianus migrans) 2022. Now a JD candidate at the University of Ottawa.
 
