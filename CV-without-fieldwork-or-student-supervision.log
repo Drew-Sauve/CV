@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  29 MAY 2023 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  31 MAY 2023 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,13 +541,13 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 306--308
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 307--309
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https 
 : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
 
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 312--314
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 313--315
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-
 ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
@@ -580,7 +580,7 @@ a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palati
 no/uplr8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/ur
 w/palatino/uplri8a.pfb>
 Output written on CV-without-fieldwork-or-student-supervision.pdf (4 pages, 124
-286 bytes).
+302 bytes).
 PDF statistics:
  205 PDF objects out of 1000 (max. 8388607)
  171 compressed objects within 2 object streams

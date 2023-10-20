@@ -23,29 +23,19 @@ urlcolor: blue
 web: sites.google.com/view/sauve-drew
 ---
 
-**An experienced researcher in statistical genetics excited to apply to a computational biologist role focused on data analysis, literature review, and scientific report preparation.** 
-
 # Education
 
-*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill Exp. Compl. 05/2023
+*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill 2023
 
 *Queen's University*, MSc. Evolutionary and Ecological Genetics \hfill 2018
 
 *Queen's University*, B.Sc. (Hons) Biology \hfill 2016
 
-# Research Skills
-
-## Statistics and Bioinformatics
-I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
-
-## Labwork
-I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
-
-# Teamwork and Results Communcation
+# Teaching, Teamwork, and Results Communication
 
 ## Teaching Fellowship
 
-I am currently co-teaching a 300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+I co-taught a 300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
 
 ## Collaboration Outside PhD Work
 
@@ -59,18 +49,26 @@ I have been a teaching assistant for five biology courses at Queen's University.
 
 I have co-supervised three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
 
+# Research Skills
+
+## Statistics and Bioinformatics
+I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
+
+## Labwork
+I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
+
 
 # Publications
 
 ## 2023
 
-10.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology*
+10.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. The magnitude of selection on growth varies among years and increases under warming conditions in a subarctic seabird *Evolution Letters*, in press.
 
-9.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. Variation in natural selection across time, space, and ontogeny *Evolution Letters*
-
-8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* 
+9.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology* 2023, e03062.
 
 ## 2022
+
+8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* , in press.
 
 7.**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *Peer Community Journal* 2, e50.
 
@@ -127,7 +125,9 @@ Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.or
 
 # Service
 
-*Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2022
+*Reviewer for Graduate Women in Science Fellowship Competition* 2023
+
+*Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2023
 
 *SciNapse Undergraduate Case Study Judge* 2021-2022
 
@@ -136,6 +136,8 @@ Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.or
 *Queen's University Biology Graduate Student Co-Chair* 2016-2017
 
 # Awards
+
+MITACS Elevate Thematic Call Postdoctoral Fellowship 2023-2025 **$160,000CAD**
 
 NSERC Michael Smith Foreign Study Supplement **$6,000CAD**
 
