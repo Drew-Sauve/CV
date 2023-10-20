@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  20 OCT 2023 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.2)  20 OCT 2023 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -540,13 +540,13 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 253--255
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 254--256
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https 
 : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
 [2]
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 259--261
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 260--262
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-
 ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
@@ -555,12 +555,12 @@ ogy Pa-per [][]$https : / / www . nationalgeographic .
 AED: lastpage setting LastPage
 [4] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 24AF86F015026AA5BF2B63CCC4B38E82;2208.
+(rerunfilecheck)             Checksum: A062E869D47EC11A4E3F799CF8DAB44F;2267.
  ) 
 Here is how much of TeX's memory you used:
  12349 strings out of 481258
- 176450 string characters out of 5914245
- 471923 words of memory out of 5000000
+ 176466 string characters out of 5914245
+ 471933 words of memory out of 5000000
  29053 multiletter control sequences out of 15000+600000
  436701 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -577,7 +577,7 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/
 a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palati
 no/uplr8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/ur
 w/palatino/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 125786 bytes).
+Output written on CV.pdf (4 pages, 126177 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  172 compressed objects within 2 object streams
