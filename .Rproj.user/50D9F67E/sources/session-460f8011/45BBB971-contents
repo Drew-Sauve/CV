@@ -12,40 +12,74 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github:
-jobtitle: Mitacs Elevate Postdoctoral Fellow
+jobtitle: PhD Candidate
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
 phone: +1 613 929 5757
-address: African Lion Safari RR 1 Cambridge, Ontario Canada N1R 5S2
+address: 116 Barrie St Rm. 4441, Kingston, ON, Canada K7L 3N6
 updated: no
 urlcolor: blue
 web: sites.google.com/view/sauve-drew
 ---
 
+*An experienced researcher in statistical genetics excited to apply to a computational biologist role dedicated to data analysis, literature review, and academic & internal report preparation*
+
 # Education
 
-*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill 2023
+*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill Exp. Compl. 05/2023
 
 *Queen's University*, MSc. Evolutionary and Ecological Genetics \hfill 2018
 
 *Queen's University*, B.Sc. (Hons) Biology \hfill 2016
 
+# Research Skills
+
+## Statistics and Bioinformatics
+I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
+
+## Labwork
+I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
+
+# Teaching 
+
+##Teaching Fellowship
+
+In 2023, I co-taught a ~300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+
+## Teaching Assistanceships
+
+I've helped to teach five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
+
+## Guest Lecture
+
+I gave a guest lecture on the evolution of life-history traits for the second year evolutionary genetics course at Queen's University.
+
+## Student Supervision
+
+I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. 
+
+*Dominique Charland* Measuring Unintentional Selection in a Captive Breeding Program for the Eastern Loggerhead Shrike (Lanius ludovicianus migrans) 2022. Now a JD candidate at the University of Ottawa.
+
+*Haley Turcotte* Phenotypic plasticity of parental investment in early-life growth traits within black-legged kittiwakes (Rissa tridactyla) 2021. Now a MSc student at Carleton University.
+
+*Ferris Nowlan* Estimation of effective population size from demographic and genomic data for an Arctic seabird (Cepphus grylle) 2020. [Now a PhD student at the University of Toronto.](https://www.jacksonlabltri.com/team/ferris-nowlan/) 
+
 # Publications
 
 ## 2023
 
-10.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. 2023. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology*
+10.**Sauve, D.**, Friesen, V.L., A, Hatch, S.A., Elliott, K.H., Charmantier A. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology*
 
-9.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. 2023. The magnitude of selection on growth varies among years and increases under warming conditions in a subarctic seabird. *Evolution Letters*
+9.**Sauve, D.**, Charmantier A, A, Hatch, S.A., Friesen, V.L. Variation in natural selection across time, space, and ontogeny *Evolution Letters*
 
-8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. 2023. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* 
+8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* 
 
 ## 2022
 
-7.**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. 2022. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *Peer Community Journal* 2, e50.
+7.**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A.A. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *Peer Community Journal* 2, e50.
 
-6.**Sauve, D.**, Charmantier, A, Hatch, S.A., Friesen V.L. 2022. Environmental conditions variably affect growth across the breeding season in a subarctic seabird. *Oecologia* 198, 307-318. 
+6.**Sauve, D.**, Charmantier, A, Hatch, S.A., Friesen V.L. Environmental conditions variably affect growth across the breeding season in a subarctic seabird. *Oecologia* 198, 307-318. 
 
 ## 2021
 
@@ -55,7 +89,7 @@ web: sites.google.com/view/sauve-drew
 
 ## 2020
 
-3.**Sauve, D.**, Dale, C.A., Tigano, A., Ratcliffe, L.M., and Friesen V.L. 2020. Do candidate genes for migration and behaviour explain migratory variation in bluebirds (*Sialia spp.*)? *The Wilson Journal of Ornithology* 132, 820-829.
+3.**Sauve, D.**, Dale, C.A., Tigano, A., Ratcliffe, L.M., and Friesen V.L. 2021. Do candidate genes for migration and behaviour explain migratory variation in bluebirds (*Sialia spp.*)? *The Wilson Journal of Ornithology* 132, 820-829.
 
 ## 2019
 
@@ -64,8 +98,6 @@ web: sites.google.com/view/sauve-drew
 1.**Sauve, D.**, Patirana, A., Chardine, J., and Friesen V.L. 2019. Mitochondrial DNA reveals genetic structure within Atlantic but not Pacific populations of a holarctic seabird *Marine Ornithology* 47, 199-208.
 
 # Presentations
-
-10.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, A. S, Charmantier, A. Exploring the influence of food supplementation on variance components of early life traits of black-legged kittiwakes. *Evolution*. Presentation.
 
 9.**Sauve, D.**, Friesen, V.L., Teplitsky, C., Hatch, S.A., Charmantier, A. 2021. Impacts of fluctuating environmental conditions and experimental feeding on selection of growth in black-legged kittiwakes. *Virtual Evolution*. Presentation.
 
@@ -100,7 +132,7 @@ Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.or
 
 # Service
 
-*Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2023
+*Graduate Student Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2022
 
 *SciNapse Undergraduate Case Study Judge* 2021-2022
 
@@ -108,9 +140,7 @@ Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.or
 
 *Queen's University Biology Graduate Student Co-Chair* 2016-2017
 
-# Awards & Funding
-
-Mitacs Elevate Postdoctoral Research Fellowship **$160,000CAD**
+# Awards
 
 NSERC Michael Smith Foreign Study Supplement **$6,000CAD**
 
@@ -134,36 +164,6 @@ Undergraduate Student Research Award. NSERC. 2016. **$4,500CAD**
 
 North American Bluebird Society Grant. North American Bluebird Society. 2015. **$1,000USD**
 
-# Research Skills
-
-## Statistics and Bioinformatics
-I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
-
-## Fieldwork
-I have spent three field seasons of working with numerous seabird species in Northern Alaska, Newfoundland, and in the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I led the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and in Corsica.
-
-## Labwork
-I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing.
-
-# Teaching 
-
-## Teaching Fellowship
-
-I co-taught a ~300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
-
-## Teaching Assistanceships
-
-I've helped to teach five biology courses at Queen's University. Topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
-
-## Student Supervision
-
-I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity.
-
-*Dominique Charland* Measuring Unintentional Selection in a Captive Breeding Program for the Eastern Loggerhead Shrike (Lanius ludovicianus migrans) 2022. Now a JD candidate at the University of Ottawa.
-
-*Haley Turcotte* Phenotypic plasticity of parental investment in early-life growth traits within black-legged kittiwakes (Rissa tridactyla) 2021. Now a MSc student at Carleton University.
-
-*Ferris Nowlan* Estimation of effective population size from demographic and genomic data for an Arctic seabird (Cepphus grylle) 2020. [Now a PhD student at the University of Toronto.](https://www.jacksonlabltri.com/team/ferris-nowlan/) 
 
 # Certifications & Courses
 
