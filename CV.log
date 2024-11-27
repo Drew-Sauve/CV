@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  14 NOV 2024 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  27 NOV 2024 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,12 +426,12 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 [3]
 
 [4]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 404--406
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 405--407
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
 
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 410--412
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 411--413
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
 
@@ -452,13 +452,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  12502 strings out of 475537
  190820 string characters out of 5775857
- 590805 words of memory out of 5000000
+ 589805 words of memory out of 5000000
  34938 multiletter control sequences out of 15000+600000
  591340 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,79p,1191b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (6 pages, 137927 bytes).
+Output written on CV.pdf (6 pages, 137985 bytes).
 PDF statistics:
  215 PDF objects out of 1000 (max. 8388607)
  172 compressed objects within 2 object streams
