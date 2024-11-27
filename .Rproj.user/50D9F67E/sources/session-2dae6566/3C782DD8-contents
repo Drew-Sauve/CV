@@ -1,0 +1,234 @@
+---
+title: "CV"
+author: "Drew Sauve"
+email: sauve.drew@gmail.com
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/CV/svm-latex-cv.tex
+  word_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+github:
+jobtitle: Manager of Research and Conservation
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: +1 613 929 5757
+address: African Lion Safari RR 1 Cambridge, Ontario Canada N1R 5S2
+updated: no
+urlcolor: blue
+web: sites.google.com/view/sauve-drew
+---
+
+# Employment
+
+*African Lion Safari*, Manager of Research and Conservation \hfill 2024 - Present
+
+*Université du Québec à Montréal*, MITACS Postdoctoral Fellow \hfill August 2023 - August 2025
+
+
+# Education
+
+*Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill 2023
+
+*Queen's University*, MSc. Evolutionary and Ecological Genetics \hfill 2018
+
+*Queen's University*, B.Sc. (Hons) Biology \hfill 2016
+
+# Publications
+
+## In prep.
+
+18.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, S. A., Charmantier, A.(*In prep.*) Food supplementation decreases additive genetic variation in black-legged kittiwake nestling mass.
+
+17.**Sauve, D.**, Rodriguez-Clark, K., Lacy, R. C., Helsen, P.(*In prep.*) Optimizing group managed conservation breeding programs with simulations.
+
+16.Elliott, G. C., **Sauve, D.**, Thompson, H., Stanger-Guy, S. J., Hathaway, C. J., Moxley, K., Pearce, J., Sheridan, C., Vos, R., Chabot, A. A., Lougheed, S. C.(*In prep.*) Short-term storage of snake sperm. 
+
+15.Atkinson, M., Dales, J., Lefebvre, J., **Sauve, D.**, Morgan, G., Chabot, A. A.(*In prep.*) Vitamin E supplementation in red-tailed hawks (*Buteo jamaicensis*).  
+
+## In review
+
+14.Elliott, G. C., Thompson, H., Chabot, A. A., Boultè, G. Hathaway, J., Pierce, J., **Sauve, D.** Comparing the body mass of captive and wild Eastern Musk Turtles (*Sternotherus odoratus*). *Chelonian Conservation and Biology*
+
+13.**Sauve, D.**, Chabot, A. A., Reale, D. Genetic adaptation in zoos and conservation breeding programs. *PNAS*
+
+12.Green, A., **Sauve, D.**, Boccia, C., Friesen, V. L. 2024. Beware of overconfidence in population assignment with unequal detection probabilities. *Conservation Biology*
+
+11.**Sauve, D.**, Charland, D., Solecki, A., Hudecki, J., Wheeler, H., Thompson, H., Steiner, J., Friesen, V. L., Chabot, A. A. 2024. Disentangling the contributions to phenotypic evolution in conservation breeding: a case study of morphological change in a breeding program of an endangered migratory songbird. *Animal Conservation* 
+
+## 2024
+
+10.**Sauve, D.**, Charmantier A., Hatch, S. A., Friesen, V. L. 2024. The magnitude of selection on growth varies among years and increases under warming conditions in a subarctic seabird. *Evolution Letters* 8, 56-63.
+
+## 2023
+
+9.**Sauve, D.**, Friesen, V. L., A, Hatch, S. A., Elliott, K. H., Charmantier A. 2023. Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology* e03062.
+
+8.Kerr, K. C., **Sauve, D.**, Winton, S. Thorne, T. J., Chabot, A. A. 2023. Examining the representation of locally threatened species in North American zoos. *Animal Conservation* 26, 625-632.
+
+## 2022
+
+7.**Sauve, D.**, Hudecki, J., Steiner, J., Wheeler, H., Chabot, A. A. 2022. Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *Peer Community Journal* 2, e50.
+
+6.**Sauve, D.**, Charmantier, A., Hatch, S. A., Friesen V. L. 2022. Environmental conditions variably affect growth across the breeding season in a subarctic seabird. *Oecologia* 198, 307-318. 
+
+## 2021
+
+5.**Sauve, D.**, Friesen, V. L., Charmantier, A. 2021.  The effects of weather on avian growth and implications in the context of climate change. *Frontiers in Ecology and Evolution* 9.
+
+4.Friesen, V. L., Brunt, R., Morris-Pocock, J. A., **Sauve, D.**, Baker, A. J., Birt, T. P., Davidson, W. S., Elliott, K. H., Montevecchi, W. A. 2021. A test of mechanisms of population differentiation in gannets (genus Morus) using comparative phylogeography and morphometrics. *Marine Ornithology* 49, 275-291. 
+
+## 2020
+
+3.**Sauve, D.**, Dale, C. A., Tigano, A., Ratcliffe, L. M., and Friesen V. L. 2020. Do candidate genes for migration and behaviour explain migratory variation in bluebirds (*Sialia spp.*)? *The Wilson Journal of Ornithology* 132, 820-829.
+
+## 2019
+
+2.**Sauve, D.**, Divoky, G., and Friesen V. L. Phenotypic plasticity or evolutionary change? An examination of the phenological response of an Arctic seabird to climate change. 2019. (*Cepphus grylle mandtii*) *Functional Ecology* 33, 2180-2190.
+
+1.**Sauve, D.**, Patirana, A., Chardine, J., and Friesen V. L. 2019. Mitochondrial DNA reveals genetic structure within Atlantic but not Pacific populations of a holarctic seabird *Marine Ornithology* 47, 199-208.
+
+# Presentations
+
+17.**Sauve, D.**, Chabot, A. A., Reale, D. Genetic adaptation in zoos and conservation breeding programs. Species360 Conservation Science Alliance Research Symposium 2024. Presentation. Online symposium.
+
+16.Atkinson, M., Dales, J., Lefebvre, J., **Sauve, D.**, Morgan, G., Chabot, A. A. Vitamin E supplementation in red-tailed hawks (*Buteo jamaicensis*). 2024. American Association of Zookeepers. Poster. Omaha, Nebraska.
+
+15.Elliott, G. C., **Sauve, D.**, Thompson, H., Stanger-Guy, S. J., Hathaway, C. J., Moxley, K., Pearce, J., Sheridan, C., Vos, R., Chabot, A. A., Lougheed, S. C. Short-term storage of snake sperm. 2024.  Canadian Herpetological Society. Presentation. Sidney, British Columbia. 
+
+14.Thompson, H., Chabot, A. A., **Sauve, D.** Investigating variation in fecundity in conservation breeding programs. Joint Evolutionary Congress 2024. Poster. Montreal, Quebec. 
+
+13.**Sauve, D.**, Chabot, A. A., Reale, D. Genetic adaptation in zoos and conservation breeding programs. Symposium on Conservation Genetics Across Multiple Species at the joint Evolutionary Congress 2024. Presentation. Montreal, Quebec.
+
+12.**Sauve, D.**, Chabot, A. A., Reale, D. Genetic adaptation in zoos and conservation breeding programs. Universite du Quebec a Montreal. Presentation. Montreal, Quebec.
+
+11.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, S. A., Charmantier, A. Food supplementation decreases additive genetic variation in nestling mass. *Wild Animal Modelling Biannual Meeting*. Presentation. Okehampton, England.
+
+10.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, S. A., Charmantier, A. Exploring the influence of food supplementation on variance components of early life traits of black-legged kittiwakes. *Evolution*. Presentation. Albuquerque, New Mexico.
+
+9.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, S. A., Charmantier, A. 2021. Impacts of fluctuating environmental conditions and experimental feeding on selection of growth in black-legged kittiwakes. *Virtual Evolution*. Presentation.
+
+8.**Sauve, D.**, Friesen V. L., Divoky G. J., Hatch, S. A., Elliott, K. H., Gaston, A. J., Charamantier, A. 2020. Ecological and evolutionary impacts of climate change on the phenology and growth of seabirds. Presentation. *Seminars in Ecology and Evolution*. Presentation. Centre d'Ecologie Fonctionelle & Evolutive,Montpellier, France.
+
+7.**Sauve, D.**, Chabot, A. The value of quantitative genetics for managing captive breeding populations. 2019. *Loggerhead Shrike Recovery Meeting* Presentation. African Lion Safari, Cambridge, Ontario.
+
+6.**Sauve, D.**, Charmantier, A., Divoky, G., Hatch, S. A., Elliott, K., Gaston, A. J., Friesen V. L. 2019. *Evolution*. Variation in chick growth in response to climate change in three high latitude seabird species. Poster. Providence, Rhode Island.
+
+5.**Sauve, D.**, Divoky, G., and Friesen V. L. 2018. Queen's University. *Biology Graduate Student Day*. Phenological change in Mandt's Black Guillemot is driven by phenotypic plasticity. Presentation. Kingston, Ontario.
+
+4.**Sauve, D.**, Divoky, G., and Friesen V. L. 2018. Queen's University. *American Genetics Associations: Quantitative Genetics in the Wild*. Phenological change in Mandt's Black Guillemot is driven by phenotypic plasticity. Presentation. Toronto, Ontario.
+
+3.**Sauve, D.**, Divoky, G., and Friesen V. L. 2017. Disentangling evolutionary and plastic change in the laying date of an Arctic seabird. *Wild Animal Modelling Biennial Meeting*. Presentation. Saint-Michel-Des-Saints, Quebec.
+
+2.**Sauve, D.**, Divoky, G., and Friesen V. L. 2017. Phenotypic plasticity drives phenological change in Mandt's Black Guillemot. *ArcticNet*. Poster. Quebec City, Quebec.
+
+1.**Sauve, D.**, Dale, C. A., Tigano, A., Ratcliffe, L. M., and Friesen V. L. An investigation into the genetic basis of partial migration in Western Bluebirds (Sialia mexicana) using candidate genes 2016.  *North American Ornithological Conference*. Poster. Washington, DC.
+
+# Research Skills
+
+## Statistics and Bioinformatics
+I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am familiar with the population modelling software Vortex and running individual based demographic models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and I am comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
+
+## Fieldwork
+I have spent three field seasons working with numerous seabird species in Northern Alaska, Newfoundland, and the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I led the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and Corsica.
+
+## Labwork
+I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing. I am currently learning to extract, preserve, culture, and donate primordial germ cells from avian embryos. 
+
+# Teaching 
+
+## Teaching Fellowship
+
+I taught a ~300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+
+## Teaching Assistanceships
+
+I've helped to teach five biology courses at Queen's University, topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
+
+## Student Supervision
+
+I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. At African Lion Safari I help supervise and guide staff-led research projects that include work on artificial reproduction, nutrition, population genetics, and quantitative genetics of ex situ populations. I'm currently supervising a research assistant who is developing a PhD proposal for collaboration with a Canadian University. 
+
+*Hana Thompson* Genomics, plasticity, and selection in ex situ and in situ conservation programs 2023-Present. Hana is funded by African Lion Safari and is working to develop a PhD in collaboration with an academic partner. 
+
+*Dominique Charland* Measuring unintentional selection in a captive breeding program for the Eastern loggerhead shrike (Lanius ludovicianus migrans) 2022. Dominique is now a JD candidate at the University of Ottawa.
+
+*Haley Turcotte* Phenotypic plasticity of parental investment in early-life growth traits within black-legged kittiwakes (Rissa tridactyla) 2021. Haley is now a MSc student at Carleton University.
+
+*Ferris Nowlan* Estimation of effective population size from demographic and genomic data for an Arctic seabird (Cepphus grylle) 2020. Ferris is now a PhD student at the University of Toronto.
+
+# Media
+
+Sixty Second Seabird Science Youtube Series
+https://www.youtube.com/watch?v=sNLRIqPfNFE
+
+Spotlight Article in Functional Ecology
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13430?af=R
+
+National Geographic Coverage of 2019 Functional Ecology Paper
+https://www.nationalgeographic.com/environment/2019/08/many-animals-can-adapt-climate-change-just-not-fast-enough-/
+
+Blog post on Proteus (Storytelling for a blue planet). https://proteusscicomm.org/2018/08/15/long-term-data-collection-serves-many/
+
+# Service
+
+*Evolution in zoos and conservation programs symposium organizer* 2024
+
+*Conservation Planning Specialist Group - Group Management Simulations Team* 2023-Present
+
+[*Contributor to the Wild Animal Modelling Website*](https://wildanimalmodels.org/) 2023-Present
+
+*IUCN Species Conservation Planning Team for Eastern Loggerhead Shrike* 2019-Present
+
+*Advisor for Creation of an Online Resource Library for Inclusive Science Communication* 2021-2024
+
+*SciNapse Undergraduate Case Study Judge* 2021-2022
+
+*OE3C 2017 Organizing Committee* 2016-2017
+
+*Queen's University Biology Graduate Student Co-Chair* 2016-2017
+
+# Awards & Funding
+
+Mitacs Elevate Postdoctoral Research Fellowship 2023-2025 **$160,000CAD**
+
+NSERC Michael Smith Foreign Study Supplement 2022 **$6,000CAD**
+
+NSERC Alexander Graham Bell Canada Graduate Scholarship 2020-2023  **$105,000CAD**
+
+Haldane Prize Shortlist - Best Early Career Paper in Functional Ecology 2020
+
+TD Fellowship in Arctic Environmental Issues 2019-2020 **$30,000CAD**
+
+Northern Studies Training Program. Canadian Polar Commission. 2019. **$2,343CAD**
+
+Northern Studies Training Program. Canadian Polar Commission. 2018. **$2,890CAD**
+
+Society for the Study of Evolution Travel Grant. Society for the Study of Evolution. 2018. **$500USD**
+
+Northern Studies Training Program. Canadian Polar Commission. 2017. **$2,263CAD**
+
+Canadian Society for the Study of Ecology and Evolution Travel Grant. 2016. **$750CAD**
+
+Undergraduate Student Research Award. NSERC. 2016. **$4,500CAD**
+
+North American Bluebird Society Grant. North American Bluebird Society. 2015. **$1,000USD**
+
+# Certifications & Courses
+
+*MITACs Elevate Courses in Leadership, Research, EDI, and Industry Careers* \hfill 2023 - Ongoing 
+
+[*Breeding Program Modelling with AlphaSimR*](https://courses.edx.org/certificates/e83fb4ebae174f0d9993d5ad5b123383) \hfill 2022
+
+*Wilderness First Responder* \hfill 2022
+
+*Basic Life Support Certification/CPR-C* \hfill 2022
+
+*Pleasure Craft Operator Card:*18032589508 \hfill 2016
+
+*Canadian Firearms Safety Course* \hfill 2016
+

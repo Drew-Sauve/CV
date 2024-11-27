@@ -12,7 +12,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github:
-jobtitle: Mitacs Elevate Postdoctoral Fellow
+jobtitle: Manager of Research and Conservation
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
@@ -23,6 +23,13 @@ urlcolor: blue
 web: sites.google.com/view/sauve-drew
 ---
 
+# Employment
+
+*African Lion Safari*, Manager of Research and Conservation \hfill 2024 - Present
+
+*Université du Québec à Montréal*, MITACS Postdoctoral Fellow \hfill August 2023 - August 2025
+
+
 # Education
 
 *Queen's University*, Ph.D. Evolutionary Ecology and Quantitative Genetics \hfill 2023
@@ -31,50 +38,27 @@ web: sites.google.com/view/sauve-drew
 
 *Queen's University*, B.Sc. (Hons) Biology \hfill 2016
 
-# Teaching 
-
-## Teaching Fellowship
-
-I taught a ~300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
-
-## Teaching Assistanceships
-
-I've helped to teach five biology courses at Queen's University, topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
-
-## Student Supervision
-
-I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. At African Lion Safari I help supervise and guide staff-led research projects (~8 staff) that include work on artificial reproduction, nutrition, population genetics, and quantiative genetics of ex situ populations. I'm currently supervising a research assistant who is developing a PhD proposal for collaboration with a Canadian University. 
-
-*Hana Thompson* Genomics, plasticity, and selection in ex situ and in situ conservation programs 2023-Present. Hana is funded by African Lion Safari and is working to develop a PhD in collaboration with an academic partner. 
-
-*Dominique Charland* Measuring unintentional selection in a captive breeding program for the Eastern loggerhead shrike (Lanius ludovicianus migrans) 2022. Dominique is now a JD candidate at the University of Ottawa.
-
-*Haley Turcotte* Phenotypic plasticity of parental investment in early-life growth traits within black-legged kittiwakes (Rissa tridactyla) 2021. Haley is now a MSc student at Carleton University.
-
-*Ferris Nowlan* Estimation of effective population size from demographic and genomic data for an Arctic seabird (Cepphus grylle) 2020. Ferris is now a PhD student at the University of Toronto.
-
 # Publications
 
 ## In prep.
 
-18.**Sauve, D.**, Chabot, A. A., Reale, D.(*In prep.*) Genetic adaptation in zoos and conservation breeding programs. 
+18.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, S. A., Charmantier, A.(*In prep.*) Food supplementation decreases additive genetic variation in black-legged kittiwake nestling mass.
 
-17.**Sauve, D.**, Friesen, V. L., Teplitsky, C., Hatch, S. A., Charmantier, A.(*In prep.*) Food supplementation decreases additive genetic variation in black-legged kittiwake nestling mass.
+17.**Sauve, D.**, Rodriguez-Clark, K., Lacy, R. C., Helsen, P.(*In prep.*) Optimizing group managed conservation breeding programs with simulations.
 
-16.**Sauve, D.**, Rodriguez-Clark, K., Lacy, R. C., Helsen, P.(*In prep.*) Optimizing group managed conservation breeding programs with simulations.
+16.Elliott, G. C., **Sauve, D.**, Thompson, H., Stanger-Guy, S. J., Hathaway, C. J., Moxley, K., Pearce, J., Sheridan, C., Vos, R., Chabot, A. A., Lougheed, S. C.(*In prep.*) Short-term storage of snake sperm. 
 
-15.Elliott, G. C., **Sauve, D.**, Thompson, H., Stanger-Guy, S. J., Hathaway, C. J., Moxley, K., Pearce, J., Sheridan, C., Vos, R., Chabot, A. A., Lougheed, S. C.(*In prep.*) Short-term storage of snake sperm. 
-
-14.Elliott, G. C., Thompson, H., Chabot, A. A., Boultè, G. Hathaway, J., Pierce, J., **Sauve, D.**(*In prep.*) A low-cost method for assessing body mass of Eastern Musk Turtles (*Sternotherus odoratus*)
-
-13.Atkinson, M., Dales, J., Lefebvre, J., **Sauve, D.**, Morgan, G., Chabot, A. A.(*In prep.*) Vitamin E supplementation in red-tailed hawks (*Buteo jamaicensis*).  
-
-12.Green, A., **Sauve, D.**, Boccia, C., Friesen, V. L.(*In prep.*) Conditional Probabilities and population assignment.  
+15.Atkinson, M., Dales, J., Lefebvre, J., **Sauve, D.**, Morgan, G., Chabot, A. A.(*In prep.*) Vitamin E supplementation in red-tailed hawks (*Buteo jamaicensis*).  
 
 ## In review
 
-11.**Sauve, D.**, Charland, D., Solecki, A., Hudecki, J., Wheeler, H., Thompson, H., Steiner, J., Friesen, V. L., Chabot, A. A. 2024. Disentangling the contributions to phenotypic evolution in conservation breeding: a case study of morphological change in a breeding program of an endangered migratory songbird. *Animal Conservation* 
+14.Elliott, G. C., Thompson, H., Chabot, A. A., Boultè, G. Hathaway, J., Pierce, J., **Sauve, D.** Comparing the body mass of captive and wild Eastern Musk Turtles (*Sternotherus odoratus*). *Chelonian Conservation and Biology*
 
+13.**Sauve, D.**, Chabot, A. A., Reale, D. Genetic adaptation in zoos and conservation breeding programs. *PNAS*
+
+12.Green, A., **Sauve, D.**, Boccia, C., Friesen, V. L. 2024. Beware of overconfidence in population assignment with unequal detection probabilities. *Conservation Biology*
+
+11.**Sauve, D.**, Charland, D., Solecki, A., Hudecki, J., Wheeler, H., Thompson, H., Steiner, J., Friesen, V. L., Chabot, A. A. 2024. Disentangling the contributions to phenotypic evolution in conservation breeding: a case study of morphological change in a breeding program of an endangered migratory songbird. *Animal Conservation* 
 
 ## 2024
 
@@ -143,6 +127,39 @@ I've helped co-supervise three honours thesis students at Queen's University on 
 2.**Sauve, D.**, Divoky, G., and Friesen V. L. 2017. Phenotypic plasticity drives phenological change in Mandt's Black Guillemot. *ArcticNet*. Poster. Quebec City, Quebec.
 
 1.**Sauve, D.**, Dale, C. A., Tigano, A., Ratcliffe, L. M., and Friesen V. L. An investigation into the genetic basis of partial migration in Western Bluebirds (Sialia mexicana) using candidate genes 2016.  *North American Ornithological Conference*. Poster. Washington, DC.
+
+# Research Skills
+
+## Statistics and Bioinformatics
+I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am familiar with the population modelling software Vortex and running individual based demographic models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and I am comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
+
+## Fieldwork
+I have spent three field seasons working with numerous seabird species in Northern Alaska, Newfoundland, and the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I led the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and Corsica.
+
+## Labwork
+I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing. I am currently learning to extract, preserve, culture, and donate primordial germ cells from avian embryos. 
+
+# Teaching 
+
+## Teaching Fellowship
+
+I taught a ~300 student undergraduate course on evolutionary genetics. The course is a required biology course at Queen's University and introduces population genetics, quantitative genetics, and evolutionary genomics.
+
+## Teaching Assistanceships
+
+I've helped to teach five biology courses at Queen's University, topics included introductory genetics, evolutionary genetics, conservation biology, and evolutionary biology. I designed and taught a custom tutorial on quantitative genetics and conservation for an upper-year genetics course. 
+
+## Student Supervision
+
+I've helped co-supervise three honours thesis students at Queen's University on effective population size, phenotypic plasticity, and measuring selection in captivity. At African Lion Safari I help supervise and guide staff-led research projects that include work on artificial reproduction, nutrition, population genetics, and quantitative genetics of ex situ populations. I'm currently supervising a research assistant who is developing a PhD proposal for collaboration with a Canadian University. 
+
+*Hana Thompson* Genomics, plasticity, and selection in ex situ and in situ conservation programs 2023-Present. Hana is funded by African Lion Safari and is working to develop a PhD in collaboration with an academic partner. 
+
+*Dominique Charland* Measuring unintentional selection in a captive breeding program for the Eastern loggerhead shrike (Lanius ludovicianus migrans) 2022. Dominique is now a JD candidate at the University of Ottawa.
+
+*Haley Turcotte* Phenotypic plasticity of parental investment in early-life growth traits within black-legged kittiwakes (Rissa tridactyla) 2021. Haley is now a MSc student at Carleton University.
+
+*Ferris Nowlan* Estimation of effective population size from demographic and genomic data for an Arctic seabird (Cepphus grylle) 2020. Ferris is now a PhD student at the University of Toronto.
 
 # Media
 
@@ -215,13 +232,3 @@ North American Bluebird Society Grant. North American Bluebird Society. 2015. **
 
 *Canadian Firearms Safety Course* \hfill 2016
 
-# Research Skills
-
-## Statistics and Bioinformatics
-I have used R throughout my academic career and I am comfortable with generalized linear models, mixed models, and non-linear models. I am familiar with the population modelling software Vortex and running individual based demographic models. I am proficient in basic bioinformatics (filtering and preparing ddRADseq or whole genome data) and I am comfortable navigating and submitting jobs on a UNIX computer cluster. I have done basic programming in Python and have run non-linear and custom Bayesian models using STAN. I am happy and eager to learn and work with the best statistical software for any given analysis. 
-
-## Fieldwork
-Currently, I am leading a team in the collection of reproductive data on an ex situ breeding program of Northern Bobwhite with a planned future reintroduction in collaboration with the Nature Conservancy of Canada in Southern Ontario. I have spent three field seasons working with numerous seabird species in Northern Alaska, Newfoundland, and the Gulf of Alaska. I have worked with both small and large teams under difficult weather conditions to collect blood samples, make field observations, and capture and record morphometrics. I led the field team on Middleton Island for part of the 2019 field season. I have worked with teams in France to help maintain long-term data sets on great and blue tits near Montpellier and Corsica.
-
-## Labwork
-I am proficient in DNA extraction, PCR, microsatellite analysis, and preparing DNA samples for next-generation sequencing. I am currently learning to extract, preserve, culture, and donate primordial germ cells from avian embryos. 

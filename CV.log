@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.11)  11 AUG 2024 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  14 NOV 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-07-20>
+L3 programming layer <2024-10-09>
 (c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -424,18 +424,18 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 [2]
 
 [3]
-Overfull \hbox (1.82782pt too wide) in paragraph at lines 364--366
+
+[4]
+Overfull \hbox (1.82782pt too wide) in paragraph at lines 404--406
 []\T1/pplj/m/n/10.95 Sixty Sec-ond Seabird Sci-ence Youtube Se-ries [][]$https : / / www . youtube . com / watch ? v = sNLRIqPfNFE$[][] 
  []
 
 
-Overfull \hbox (10.73009pt too wide) in paragraph at lines 370--372
+Overfull \hbox (10.73009pt too wide) in paragraph at lines 410--412
 []\T1/pplj/m/n/10.95 National Ge-o-graphic Cov-er-age of 2019 Func-tional Ecol-ogy Pa-per [][]$https : / / www . nationalgeographic .
  []
 
 
-
-[4]
 
 [5]
 
@@ -444,24 +444,24 @@ enddocument/afterlastpage: lastpage setting LastPage.
 (./CV.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-07-20>
+L3 programming layer <2024-10-09>
  ***********
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 530BDA2534768CA5B144DEA95E6798D0;2552.
+(rerunfilecheck)             Checksum: 029B9064C28C0F01E584F1450441C60D;2651.
  ) 
 Here is how much of TeX's memory you used:
- 12499 strings out of 475539
- 190784 string characters out of 5775896
- 1939960 words of memory out of 5000000
- 34934 multiletter control sequences out of 15000+600000
+ 12502 strings out of 475537
+ 190820 string characters out of 5775857
+ 590805 words of memory out of 5000000
+ 34938 multiletter control sequences out of 15000+600000
  591340 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,79p,1191b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,12n,79p,1191b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/0as69/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (6 pages, 136575 bytes).
+Output written on CV.pdf (6 pages, 137927 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
